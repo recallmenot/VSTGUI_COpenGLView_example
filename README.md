@@ -3,7 +3,7 @@ This is an example for the Steinberg VST3SDK VSTGUI librarys COpenGLView object.
 Note: since Apples deprecation of their own OpenGL library to enforce adoption of Metal, development on the COpenGLView has ceased.
 It has been implemented for Windows, mac os and iOS.
 
-Created with the [generous help](https://forums.steinberg.net/t/vstgui4-and-pure-opengl-editor/201982/10) of @arne_scheffler.
+Created with the [generous help](https://forums.steinberg.net/t/vstgui4-and-pure-opengl-editor/201982/10) of @scheffle.
 
 It is a nice addition to the [tutorial on subclassing views to create your own](https://steinbergmedia.github.io/vst3_doc/vstgui/html/create_your_own_view.html).
 
